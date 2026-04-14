@@ -14,7 +14,7 @@
 - 이미 채팅창이 띄워진 경우라면, 새로운 채팅으로 시작합니다.<br>
 <img width="409" height="80" alt="image" src="https://github.com/user-attachments/assets/c5b02776-e038-4da3-a1cf-9c7c46985952" /><br>
 - 참조하는 파일 코드가 이미 있다면, X로 제외를 시킵니다.<br>
-그리고 Chat 모드는 **Ask**로 변경해줍니다. (Agent 모드는 Task3 마지막에서 실습합니다)<br>
+그리고 Chat 모드는 **Ask**로 변경해줍니다. <br>
 <img width="431" height="133" alt="image" src="https://github.com/user-attachments/assets/5c41d1f4-d710-41e4-889d-b43431ac5f7e" /><br>
 
 ### 1-2. 웹앱 코드 생성
